@@ -1,0 +1,32 @@
+
+.main-title {
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.article {
+    padding-bottom: 20px;
+}
+
+.article-title {
+    padding-left: 20px;
+}
+
+.article-link {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courgette', cursive;
+}
+
+.article-content {
+    font-family: 'Oswald', sans-serif;
+    padding-left: 20px;
+}
+
+.image2 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
